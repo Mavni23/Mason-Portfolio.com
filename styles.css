@@ -2,7 +2,7 @@
     padding: 0px;
     margin: 0px;
     font-size: x-large;
-    font-family: sans-serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .img-container{
@@ -124,6 +124,8 @@ body{
     font-family: 'Times New Roman', Times, serif;
     font-size: xx-large;
     color: white;
+    align-items: center;
+        
 }
 .opacity-text-box2{
     height: 500px;
